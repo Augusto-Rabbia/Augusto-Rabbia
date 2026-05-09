@@ -9,8 +9,11 @@ I’m also involved in research related to Deep Learning techniques applied to a
 ## Tech I work with
 
 **Languages:** Python, C++, TypeScript, SQL
+
 **Frontend:** React, Flutter, Vue
+
 **Tools & Cloud:** Docker, AWS
+
 **Core areas:** Machine Learning, Deep Learning, Data Science, AI Engineering, LLMs, MLOps
 
 Feel free to check out my projects or connect with me!
