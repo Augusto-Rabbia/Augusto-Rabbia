@@ -14,6 +14,11 @@ I’m also involved in research related to Deep Learning techniques applied to a
 
 **Tools & Cloud:** Docker, AWS
 
-**Core areas:** Machine Learning, Deep Learning, Data Science, AI Engineering, LLMs, MLOps
+**Core areas:** Machine Learning, Data Science, AI Engineering, LLMs, MLOps
+
+I'm also interested in:
+- Cybersecurity
+- Finance/economics
+- Human action and neuroscience
 
 Feel free to check out my projects or connect with me!
